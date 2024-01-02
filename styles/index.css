@@ -1,0 +1,21 @@
+body {
+  background-color: rgb(48, 46, 46);
+  color: white;
+  display: flex;
+  justify-content: center;
+  background-image: repeating-linear-gradient(165deg, #f9fe00, #f9fe00 60px, #2e2d2d 60px, #2e2d2d 120px);
+  min-height: 100vh;
+}
+
+p {
+  width: 39vw;
+  margin-top: 15vw;
+  padding: 2rem;
+  font-size: 2em;
+  font-weight: bolder;
+  border: 0.3em solid rgb(122, 106, 106);
+  border-radius: 20px;
+  display: flex;
+  justify-content: center;
+  background-color: rgb(71, 62, 62);
+}/*# sourceMappingURL=index.css.map */
